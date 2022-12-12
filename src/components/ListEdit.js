@@ -39,7 +39,7 @@ const ListEdit = ({ editList, setEditList }) => {
             <input type="checkbox" id="my-modal-5" className="modal-toggle" />
             <div className="modal">
                 <div className="modal-box relative">
-                    <label htmlFor="my-modal-5" className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
+                    <label htmlFor="my-modal-5" onClick={() => setEditList(null)} className="btn btn-sm btn-circle absolute right-2 top-2">✕</label>
                     <h3 className="text-lg font-bold">{editList.name} information update</h3>
                     <div className='flex items-center mt-3'>
                         <span className='mr-8'>Name : </span>
