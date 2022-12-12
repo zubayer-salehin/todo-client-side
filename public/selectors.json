@@ -1,0 +1,227 @@
+[
+    {
+        "selector": "Manufacturing"
+    },
+    {
+        "selector": "Construction materials"
+    },
+    {
+        "selector": "Electronics and Optics"
+    },
+    {
+        "selector": "Food and Beverage"
+    },
+    {
+        "selector": "Food and Beverage"
+    },
+    {
+        "selector": "Bakery confectionery products"
+    },
+    {
+        "selector": "Beverages"
+    },
+    {
+        "selector": "Fish fish products"
+    },
+    {
+        "selector": "Meat meat products"
+    },
+    {
+        "selector": "Milk dairy products"
+    },
+    {
+        "selector": "Other"
+    },
+    {
+        "selector": "Sweets snack food"
+    },
+    {
+        "selector": "Furniture"
+    },
+    {
+        "selector": "Bathroom/sauna"
+    },
+    {
+        "selector": "Bedroom"
+    },
+    {
+        "selector": "Children’s room"
+    },
+    {
+        "selector": "Kitchen"
+    },
+    {
+        "selector": "Living room"
+    },
+    {
+        "selector": "Office"
+    },
+    {
+        "selector": "Other (Furniture)"
+    },
+    {
+        "selector": "Outdoor"
+    },
+    {
+        "selector": "Project furniture"
+    },
+    {
+        "selector": "Machinery"
+    },
+    {
+        "selector": "Machinery components"
+    },
+    {
+        "selector": "Machinery equipment/tools"
+    },
+    {
+        "selector": "Manufacture of machinery"
+    },
+    {
+        "selector": "Maritime"
+    },
+    {
+        "selector": "Aluminium and steel workboats"
+    },
+    {
+        "selector": "Boat/Yacht building"
+    },
+    {
+        "selector": "Ship repair and conversion"
+    },
+    {
+        "selector": "Metal structures"
+    },
+    {
+        "selector": "Other"
+    },
+    {
+        "selector": "Repair and maintenance service"
+    },
+    {
+        "selector": "Metalworking"
+    },
+    {
+        "selector": "Construction of metal structures"
+    },
+    {
+        "selector": "Houses and buildings"
+    },
+    {
+        "selector": "Metal products"
+    },
+    {
+        "selector": "Metal works"
+    },
+    {
+        "selector": "CNC-machining"
+    },
+    {
+        "selector": "Forgings, Fasteners"
+    },
+    {
+        "selector": "Gas, Plasma, Laser cutting"
+    },
+    {
+        "selector": "MIG, TIG, Aluminum welding"
+    },
+    {
+        "selector": "Plastic and Rubber"
+    },
+    {
+        "selector": "Packaging"
+    },
+    {
+        "selector": "Plastic goods"
+    },
+    {
+        "selector": "Plastic processing technology"
+    },
+    {
+        "selector": "Blowing"
+    },
+    {
+        "selector": "Moulding"
+    },
+    {
+        "selector": "Plastics welding and processing"
+    },
+    {
+        "selector": "Printing"
+    },
+    {
+        "selector": "Advertising"
+    },
+    {
+        "selector": "Book/Periodicals printing"
+    },
+    {
+        "selector": "Labelling and packaging printing"
+    },
+    {
+        "selector": "Textile and Clothing"
+    },
+    {
+        "selector": "Clothing"
+    },
+    {
+        "selector": "Textile"
+    },
+    {
+        "selector": "Wood"
+    },
+    {
+        "selector": "Other (Wood)"
+    },
+    {
+        "selector": "Wooden building materials"
+    },
+    {
+        "selector": "Creative industries"
+    },
+    {
+        "selector": "Energy technology"
+    },
+    {
+        "selector": "Environment"
+    },
+    {
+        "selector": "Business services"
+    },
+    {
+        "selector": "Engineering"
+    },
+    {
+        "selector": "Information Technology and Telecommunications"
+    },
+    {
+        "selector": "Data processing, Web portals, E-marketing"
+    },
+    {
+        "selector": "Programming, Consultancy"
+    },
+    {
+        "selector": "Software, Hardware"
+    },
+    {
+        "selector": "Telecommunications"
+    },
+    {
+        "selector": "Tourism"
+    },
+    {
+        "selector": "Translation services"
+    },
+    {
+        "selector": "Transport and Logistics"
+    },
+    {
+        "selector": "Air"
+    },
+    {
+        "selector": "Rail"
+    },
+    {
+        "selector": "Road"
+    }
+]

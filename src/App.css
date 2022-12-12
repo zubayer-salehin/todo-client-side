@@ -1,0 +1,44 @@
+/*Container CSS Start*/
+
+.customContainer {
+    width: 100%;
+    padding-right: .75rem;
+    padding-left: .75rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media screen {
+
+    @media (max-width: 575px) {
+        .customContainer {
+            width: 100%;
+        }
+    }
+
+    @media (min-width: 576px) {
+        .customContainer {
+            max-width: 520px;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .customContainer {
+            max-width: 720px;
+        }
+    }
+
+    @media (min-width: 992px) {
+        .customContainer {
+            max-width: 960px;
+        }
+    }
+
+    @media (min-width: 1200px) {
+        .customContainer {
+            max-width: 1180px;
+        }
+    }
+}
+
+/*Container CSS End*/
